@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/yxb941006/packages-test/issues"
   },
-  "homepage": "https://github.com/yxb941006/packages-test#readme"
+  "homepage": "https://github.com/yxb941006/packages-test#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  }
 }

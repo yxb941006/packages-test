@@ -1,6 +1,6 @@
 {
-  "name": "@yxb941006/packages-test",
-  "version": "1.0.11",
+  "name": "multi-package-a",
+  "version": "0.0.0",
   "description": "test github-packages",
   "main": "./index.js",
   "scripts": {
@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/yxb941006/packages-test#readme",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/yxb941006"
+    "registry": "https://npm.pkg.github.com/yxb941006/package-test"
   }
 }

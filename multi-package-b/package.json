@@ -1,22 +1,16 @@
 {
-  "name": "multi-package-b",
-  "version": "1.0.11",
+  "name": "@yxb941006/multi-package-b",
+  "version": "0.0.0",
   "description": "test github-packages",
   "main": "./index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/yxb941006/packages-test.git"
-  },
+  "repository":"https://github.com/yxb941006/packages-test",
   "author": "yinxiaobin",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/yxb941006/packages-test/issues"
   },
-  "homepage": "https://github.com/yxb941006/packages-test#readme",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/yxb941006/package-test"
-  }
+  "homepage": "https://github.com/yxb941006/packages-test#readme"
 }
